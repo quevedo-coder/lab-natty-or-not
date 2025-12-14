@@ -11,7 +11,7 @@ A proposta é refletir sobre até que ponto uma Inteligência Artificial consegu
 ## 🧠 Tipo de Conteúdo
 
 - Texto narrativo
-- Reflexão pessoal em primeira pessoa
+- Reflexão pessoal em primeira pessoa.
 
 ---
 
