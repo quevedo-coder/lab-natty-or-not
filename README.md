@@ -1,3 +1,11 @@
+# Projeto: Natty or IA? Texto natural vs IA
+
+**Autor:** Luiz Quevedo  
+**Desafio:** Natural ou Fake Natty? — DIO  
+**Formato:** Texto narrativo gerado por IA
+
+---
+
 # Natty or IA? Um texto que poderia ser humano
 
 ## 📌 Descrição do Projeto
